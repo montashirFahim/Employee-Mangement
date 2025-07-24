@@ -1,8 +1,3 @@
-Here’s a clean and professional `README.md` file you can use for your GitHub repository:
-
----
-
-```markdown
 # Employee Management System (Jmix Full-Stack CRUD App)
 
 A full-stack employee management application built using [Jmix](https://www.jmix.io/), leveraging Java, Vaadin Flow, and Spring Boot. The system provides full CRUD (Create, Read, Update, Delete) functionality for managing Employees and Departments.
@@ -114,12 +109,6 @@ To use PostgreSQL, update the above properties and ensure PostgreSQL is installe
 2. Create a new branch (`feature/your-feature`)
 3. Commit your changes
 4. Push and open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License.
 
 ---
 
